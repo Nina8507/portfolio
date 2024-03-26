@@ -77,6 +77,30 @@ const WorkTimeline = () => {
             </div>
           </div>
         </div>
+        <br />
+        <br />
+        <div>
+          <h2 className="section__title">Job description</h2>
+          <br />
+          <br />
+          <div className='flex flex-col md:flex-row items-center gap-15 md:gap-10'>
+        
+        <div className='flex-1'>
+              <p> My passion for data began early during my studies and became a significant focus in my role as a data engineer at Systematic.
+                During my time with the company, I worked in the healthcare department, the project achieving success relatively quickly.
+                <br />
+                <br />
+                I focused mainely on performance optimization, however that was not my sole responsibility. I also handled customer change requests,
+                participated in feature development and implementation, conducted stakeholder meetings to discuss improvements, and facilitated knowledge
+                sharing.
+              </p>
+        </div>
+        
+        <img
+          src='/systematic.webp'
+              className='rounded-3xl w-full md:w-auto md:max-w-lg' />
+          </div>
+        </div>
       </div>
     </section>
   );

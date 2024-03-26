@@ -2,6 +2,9 @@
 @tailwind components;
 @tailwind utilities;
 
+/*=============== GOOGLE FONTS ===============*/
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap");
+
 * {
   transition-duration: 0.3s;
   font-family: 'rubik';
@@ -39,7 +42,7 @@
 /*=========================================================================*/
 
 .qualification_container{
-  max-width: 768px;
+  max-width: 1000px;
 }
 
 .qualification_tabs{
@@ -121,10 +124,6 @@
   transform: translate(6px, -7px);
 }
   
-/*=============== GOOGLE FONTS ===============*/
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap");
-
-
 /*=============== VARIABLES CSS ===============*/
 :root {
   --header-height: 3rem;
@@ -196,7 +195,7 @@
 
 html {
   scroll-behavior: smooth;
-}
+} 
 
 body,
 button,
