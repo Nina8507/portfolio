@@ -16,7 +16,7 @@ export default function EducationSection() {
   const formal = language?.education?.formal
 
   return (
-    <Section id={id}>
+    <Section id='education'>
       <HeaderSection title={title} description={description} />
       <div>
         <ul className='flex gap-4 md:gap-6 justify-center font-semibold text-black'>

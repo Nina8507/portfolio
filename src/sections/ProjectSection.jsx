@@ -14,7 +14,7 @@ export default function ProjectSection() {
   const projects = language?.projects?.works
 
   return (
-    <Section id={id}>
+    <Section id='projects'>
       <HeaderSection title={title} description={description} />
       <ul className='grid grid-cols-1 md:grid-cols-3 gap-6'>
         {projects.map(

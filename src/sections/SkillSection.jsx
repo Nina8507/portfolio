@@ -114,7 +114,7 @@ export default function SkillSection() {
   const tab = language?.skills?.tab
 
   return (
-    <Section id={id}>
+    <Section id='skills'>
       <HeaderSection title={title} description={description} />
       <div className='overflow-hidden overflow-x-scroll'>
         <ul className='flex text-center w-[38rem] sm:w-auto'>

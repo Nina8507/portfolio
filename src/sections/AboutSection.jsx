@@ -12,7 +12,7 @@ export default function AboutSection() {
   const paraf2 = language?.about?.paragraf2
 
   return (
-    <Section id={id}>
+    <Section id='about'>
       <HeaderSection title={title} description={description} />
       <div className='flex flex-col md:flex-row items-center gap-6 md:gap-10'>
         <img

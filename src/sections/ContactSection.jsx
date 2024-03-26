@@ -65,7 +65,7 @@ export default function ContactSection() {
   const textarea = language?.contact?.input[2]
 
   return (
-    <Section id={id}>
+    <Section id='contact'>
       <HeaderSection title={title} description={description} />
       <div className='flex gap-8 flex-col-reverse md:flex-row'>
         <div className='space-y-2 md:space-y-4'>

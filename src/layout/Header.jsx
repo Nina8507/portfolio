@@ -14,7 +14,7 @@ export default function Header() {
   const buttonDownload = language?.header?.buttonDownload
 
   return (
-    <header id={id} className='min-h-screen flex items-center'>
+    <header id='home' className='min-h-screen flex items-center'>
       <Navbar />
       <Container>
         <div className='relative mb-14 mt-4 md:m-0'>
