@@ -2,6 +2,7 @@ import { LanguageProvider } from './context/LanguageContext'
 import Header from './layout/Header'
 import Container from './components/Container'
 import AboutSection from './sections/AboutSection'
+import WorkTimeline from './sections/WorkTimeline'
 import EducationSection from './sections/EducationSection'
 import SkillSection from './sections/SkillSection'
 import ProjectSection from './sections/ProjectSection'
@@ -16,6 +17,7 @@ export default function App() {
           <Header />
           <Container>
             <AboutSection />
+            <WorkTimeline /> 
             <EducationSection />
             <SkillSection />
             <ProjectSection />

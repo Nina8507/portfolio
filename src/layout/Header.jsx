@@ -9,7 +9,6 @@ import { FaFileDownload } from 'react-icons/fa'
 
 export default function Header() {
   const { language } = useLanguage()
-  const id = language?.header?.navbar[0]?.name
   const paragraf = language?.header?.headParagraf
   const buttonDownload = language?.header?.buttonDownload
 

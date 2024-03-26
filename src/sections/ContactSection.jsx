@@ -53,7 +53,6 @@ export default function ContactSection() {
   }
 
   // ==== Language
-  const id = language?.header?.navbar[5].name
   const title = language?.contact?.title
   const description = language?.contact?.description
   const cardContact = language?.contact?.cardContact

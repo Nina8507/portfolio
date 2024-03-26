@@ -12,7 +12,7 @@ export default function Footer() {
     <footer className='rounded-t-xl md:rounded-t-3xl bg-white dark:bg-[#1d1d1d] pb-24 md:pb-12 pt-10'>
       <Container>
         <div className='flex flex-col items-center'>
-          <h4 className='text-xl md:text-2xl font-bold'>Constantina</h4>
+          <h4 className='text-xl md:text-2xl font-bold'>&#169; Constantina</h4>
           <ul className='flex flex-wrap gap-4 md:gap-6 py-4 capitalize'>
             {footer.map((item, i) => {
               switch (item) {

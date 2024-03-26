@@ -107,8 +107,6 @@ export default function SkillSection() {
   const { language } = useLanguage()
   const [count, setCount] = useState(1)
 
-  // ==== Language
-  const id = language?.header?.navbar[3]?.name
   const title = language?.skills?.title
   const description = language?.skills?.description
   const tab = language?.skills?.tab

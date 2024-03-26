@@ -9,7 +9,6 @@ export default function EducationSection() {
   const [tab, setTab] = useState(1)
 
   // ==== Language
-  const id = language?.header?.navbar[2]?.name
   const title = language?.education?.title
   const description = language?.education?.description
   const nonFormal = language?.education?.nonFormal

@@ -8,7 +8,6 @@ export default function ProjectSection() {
   const { language } = useLanguage()
 
   // ==== Language
-  const id = language?.header?.navbar[4].name
   const title = language?.projects?.title
   const description = language?.projects?.description
   const projects = language?.projects?.works

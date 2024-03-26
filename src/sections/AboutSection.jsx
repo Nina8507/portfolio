@@ -5,7 +5,6 @@ export default function AboutSection() {
   const { language } = useLanguage()
 
   // ==== Language
-  const id = language?.header?.navbar[1]?.name
   const title = language?.about?.title
   const description = language?.about?.description
   const paraf1 = language?.about?.paragraf1
