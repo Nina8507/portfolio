@@ -40,15 +40,13 @@ export default function ProjectSection() {
                       <a
                         href={linkRepo}
                         target='_blank'
-                        rel='noopener noreferrer'
-                      >
+                        rel='noopener noreferrer'>
                         <BsCodeSlash className='w-6 h-6 box-content p-2 rounded-md bg-slate-100 hover:bg-slate-200 dark:bg-zinc-900 dark:hover:bg-zinc-950' />
                       </a>
                       <a
                         href={linkDemo}
                         target='_blank'
-                        className='flex items-center gap-1 bg-slate-100 hover:bg-slate-200 dark:bg-zinc-900 dark:hover:bg-zinc-950 p-2 rounded-md'
-                      >
+                        className='flex items-center gap-1 bg-slate-100 hover:bg-slate-200 dark:bg-zinc-900 dark:hover:bg-zinc-950 p-2 rounded-md'>
                         <span>
                           {language.country === 'en' ? 'Open' : 'buka'}
                         </span>

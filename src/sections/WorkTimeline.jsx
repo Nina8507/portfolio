@@ -85,13 +85,13 @@ const WorkTimeline = () => {
           <br />
           <div className='flex flex-col md:flex-row items-center gap-10 md:gap-15'>
             <div className='flex-1'>
-              <p> My passion for data began early during my studies and became a significant focus in my role as a data engineer at Systematic.
-                During my time with the company, I worked in the healthcare department, the project achieving success relatively quickly.
+              <p> My passion for data began early in my studies and became a significant focus in my role as a data engineer at Systematic.
+                During my time with the company, I worked in the healthcare department, where the project achieved success relatively quickly.
                 <br />
                 <br />
-                I focused mainely on performance optimization, however that was not my sole responsibility. I also handled customer change requests,
-                participated in feature development and implementation, conducted stakeholder meetings to discuss improvements, and facilitated knowledge
-                sharing.
+                While my primary focus was on performance optimization, it was not my sole responsibility.
+                I was also responsible for handling customer change requests, participating in feature development and implementation,
+                conducting stakeholder meetings to discuss improvements, and facilitating knowledge sharing.
               </p>
               <br />
             </div>

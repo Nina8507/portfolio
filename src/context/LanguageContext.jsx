@@ -45,7 +45,7 @@ import py from '../assets/skills/python.svg'
 // ==== Projects Default Same Value
 const sep2 = {
   img: wms,
-  linkDemo: '',
+  linkDemo: '../page/Sep2',
   linkRepo: 'https://github.com/Nina8507/Sep2.Project',
   stack: [
     {
@@ -234,7 +234,7 @@ const english = {
         {
             title: 'Bachelors in Communication and PR',
             date: '2008 - 2010',
-            description: 'Effective communication startegies, strategic communication planning. ',
+            description: 'Effective communication strategies, strategic communication planning. ',
           },
     ],
     nonFormal: [
@@ -261,7 +261,7 @@ const english = {
       {
         title: 'Semester 5',
         date: 'Feb 2022',
-        description: 'Interniship - Data Engineer at Systematic ApS. ',
+        description: 'Internship - Data Engineer at Systematic ApS. ',
         },
         {
             title: 'Semester 6',
@@ -283,7 +283,7 @@ const english = {
     title: 'Projects',
     works: [
         {
-        name: 'Warehouse System - Clent/Server Application',
+        name: 'Warehouse System - Client/Server Application',
         description:
           'The system supports internal communication between the administration, management, and warehouse department.',
         ...sep2,
