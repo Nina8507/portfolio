@@ -39,13 +39,9 @@ import githubActions from '../assets/skills/github-action.svg'
 import docker from '../assets/skills/docker.svg'
 import py from '../assets/skills/python.svg'
 
-
-
-
-// ==== Projects Default Same Value
 const sep2 = {
   img: wms,
-  linkDemo: '../page/Sep2',
+  linkDemo: 'https://github.com/Nina8507/Sep2.Project',
   linkRepo: 'https://github.com/Nina8507/Sep2.Project',
   stack: [
     {
@@ -64,6 +60,7 @@ const sep2 = {
 }
 const sep3 = {
   img: fms,
+  linkDemo: 'https://github.com/Fraektsvin/Group6_fifthVersion/tree/main/Group6System-main/Group6System-main',
   linkRepo: 'https://github.com/Fraektsvin/Group6_fifthVersion/tree/main/Group6System-main/Group6System-main',
   stack: [
     {
@@ -88,6 +85,7 @@ const sep3 = {
 }
 const sep4 = {
   img: greenhouse,
+  linkDemo: 'https://projects-inky.vercel.app/loraPage',
   linkRepo: 'https://github.com/GreenHouseSEP4',
   stack: [
     {
@@ -174,6 +172,7 @@ const sep6 = {
 }
 const bachelor = {
   img: data, 
+  linkDemo: 'https://projects-inky.vercel.app/bachelorPage',
   linkRepo: 'https://github.com/Purple-Wizard/BPR',
   stack: [
     {
@@ -185,7 +184,6 @@ const bachelor = {
   ],
 }
 
-// ==== Language
 const english = {
   country: 'en',
   header: {
