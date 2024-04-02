@@ -57,7 +57,7 @@ export default function Header() {
                   repeat={Infinity}
                 />
                 <p className='pb-2'>{paragraf}</p>
-                <div className='flex gap-2 flex-wrap py-2'>
+                {/* <div className='flex gap-2 flex-wrap py-2'>
                   <button>
                     <a
                       href='/CV.pdf'
@@ -68,7 +68,7 @@ export default function Header() {
                       <span className='font-poppins'>{buttonDownload}</span>
                     </a>
                   </button>
-                </div>
+                </div> */}
               </div>
             </div>
           </div>

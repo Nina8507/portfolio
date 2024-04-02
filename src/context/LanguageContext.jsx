@@ -24,7 +24,7 @@ import postgresql from '../assets/skills/postgresql.svg'
 import astah from '../assets/skills/astah.svg'
 import scrum from '../assets/skills/scrum.svg'
 import blazor from '../assets/skills/c-sharp.svg'
-import dotnet from '../assets/skills/docker.svg'
+import dotnet from '../assets/skills/dot-net.svg'
 import springboot from '../assets/skills/spring-boot.svg'
 import powerBI from '../assets/skills/powerBi.svg'
 import ssms from '../assets/skills/microsoft-sql-server-logo-svgrepo-com.svg'
@@ -38,6 +38,8 @@ import googleCloud from '../assets/skills/google-cloud.svg'
 import githubActions from '../assets/skills/github-action.svg'
 import docker from '../assets/skills/docker.svg'
 import py from '../assets/skills/python.svg'
+import tensor from '../assets/skills/tensorflow.svg'
+import skt from '../assets/skills/Scikit_learn_logo.svg'
 
 const sep2 = {
   img: wms,
@@ -45,15 +47,19 @@ const sep2 = {
   linkRepo: 'https://github.com/Nina8507/Sep2.Project',
   stack: [
     {
+      name:'Java',
       icon: java,
     },
     {
+      name: 'PostgreSQL',
       icon: postgresql,
     },
     {
+      name: 'Astah UML',
       icon: astah,
     },
     {
+      name: 'Scrum',
       icon: scrum,
     },
   ],
@@ -64,21 +70,27 @@ const sep3 = {
   linkRepo: 'https://github.com/Fraektsvin/Group6_fifthVersion/tree/main/Group6System-main/Group6System-main',
   stack: [
     {
+      name: 'Java',
       icon: java,
     },
     {
+      name:'C#',
       icon: blazor,
     },
     {
+      name: 'RESTful API',
       icon: rest, 
     },
     {
+      name: '.NET',
       icon: dotnet,
     },
     {
+      name: 'Spring Boot',
       icon: springboot,
     },
     {
+      name: 'Scrum',
       icon: scrum,
     },
   ],
@@ -89,33 +101,43 @@ const sep4 = {
   linkRepo: 'https://github.com/GreenHouseSEP4',
   stack: [
     {
+      name: 'Spring Boot',
       icon: springboot,
     },
     {
+      name: 'C#',
       icon: blazor,
     },
     {
+      name: 'Android',
       icon: android, 
     },
     {
+      name: 'C',
       icon: c,
     },
     {
+      name: 'Java',
       icon: java, 
     },
     {
+      name: 'Amazon Web Services',
       icon: aws, 
     },
     {
+      name: 'Microsoft SQL Server',
       icon: ssms, 
     },
     {
+      name: 'Microsoft PowerBI',
       icon: powerBI, 
     },
     {
+      name: 'Scrum',
       icon: scrum,
     }, 
     {
+      name: 'Astah UML',
       icon: astah,
     },
   ],
@@ -126,15 +148,19 @@ const easypay = {
   linkRepo: 'https://github.com/JustForUs2/EasyPay',
   stack: [
     {
+      name: 'Android',
       icon: android,
     },
     {
+      name: 'Gradle',
       icon: gradle,
     },
     {
+      name: 'Google Firebase',
       icon: firebase,
     },
     {
+      name: 'Astah UML',
       icon: astah, 
     },
   ],
@@ -145,27 +171,35 @@ const sep6 = {
   linkRepo: 'https://github.com/SEP6-BestMovies/best-movies-js', 
   stack: [
     {
+      name: 'React',
       icon: react,
     },
     {
+      name: 'Tailwind',
       icon: tailwind,
     },
     {
+      name: 'NodeJs',
       icon: node,
     },
     {
+      name: 'Javascript',
       icon: js,
     },
     {
+      name: 'Google Firebase',
       icon: firebase,
     },
     {
+      name: 'Google Cloud',
       icon: googleCloud,
     },
     {
+      name: 'GitHub Actions',
       icon: githubActions,
     },
     {
+      name: 'Docker',
       icon: docker, 
     },
   ],
@@ -176,9 +210,19 @@ const bachelor = {
   linkRepo: 'https://github.com/Purple-Wizard/BPR',
   stack: [
     {
+      name: 'Python',
       icon: py,
     }, 
     {
+      name: 'TensorFlow',
+      icon: tensor,
+    },
+    {
+      name: 'Scikit-learn',
+      icon: skt,
+    },
+    {
+      name: 'Docker',
       icon: docker,
     },
   ],
