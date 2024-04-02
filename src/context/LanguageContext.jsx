@@ -256,9 +256,13 @@ const english = {
   about: {
     title: 'About',
     paragraf1:
-      'My colleagues describe me as a committed and reliable professional, the "doer" of the team, always ready to dive headfirst when a challenge arises in the work environment.',
+      "I have always had a curious mind and a deep passion for science. Recognizing my aptitude for mathematics early on in my education, my parents encouraged me to pursue a path in IT. Although my high school profile emphasized Mathematics and IT, circumstances led me to opt for a bachelor's degree in communication instead. However, after relocating to Denmark and overcoming my fears, I decided it was time to follow my passion for technology and apply for a bachelor's program as a software engineer.",
     paragraf2:
-      'Ambitious and with a strong work ethic, I am continually seeking ways to positively contribute to the success of the team and the projects we deliver. Being detail oriented is part of my way of working, where every aspect of a project is analysed and addressed with precision, leaving no room for oversights.',
+      "In addition to meeting the requirements of the school curriculum, I am driven by a desire to deliver projects that are not only functional but also user-friendly, enhancing everyday life. For me, the absolute goal as a developer is to use technology to simplify tasks and improve the lives of people. My colleagues describe me as a committed and reliable professional, the team member that's always ready to dive headfirst when a challenge arises in the work environment.",
+    paragraf3:
+      "Ambitious and with a strong work ethic, I am continually seeking ways to positively contribute to the success of the team and the projects we deliver. Being detail oriented is part of my way of working, where every aspect of a project is analysed and addressed with precision, leaving no room for oversights.",
+    paragraf4:
+      "When I'm not at my PC working on a project, you can find me walking along the beach or hiking various trails throughout Midtjylland, or in the bouldering gym.",
   },
   education: {
     title: 'Education',

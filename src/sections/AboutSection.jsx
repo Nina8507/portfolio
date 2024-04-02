@@ -9,6 +9,8 @@ export default function AboutSection() {
   const description = language?.about?.description
   const paraf1 = language?.about?.paragraf1
   const paraf2 = language?.about?.paragraf2
+  const paraf3 = language?.about?.paragraf3
+  const paraf4 = language?.about?.paragraf4
 
   return (
     <Section id='about'>
@@ -22,8 +24,14 @@ export default function AboutSection() {
           <p>
             {paraf1}
             <br />
-            <br />
+            <br/>
             {paraf2}
+            <br />
+            <br/>
+            {paraf3}
+            <br />
+            <br/>
+            {paraf4}
           </p>
         </div>
       </div>
