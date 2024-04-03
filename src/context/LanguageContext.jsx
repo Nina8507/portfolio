@@ -207,7 +207,7 @@ const sep6 = {
 const bachelor = {
   img: data, 
   linkDemo: 'https://projects-inky.vercel.app/bachelorPage',
-  linkRepo: 'https://github.com/Purple-Wizard/BPR',
+  linkRepo: '',
   stack: [
     {
       name: 'Python',
