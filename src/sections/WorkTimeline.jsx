@@ -97,7 +97,7 @@ const WorkTimeline = () => {
           <br />
           <br />
           <div className='flex flex-col md:flex-row items-center gap-10 md:gap-15'>
-          <img src='/image.png' className='rounded-3xl w-full md:w-auto md:max-w-lg' />
+          <img src='/COLIBO.png' className='rounded-3xl w-full md:w-auto md:max-w-lg' />
             <div className='flex-1'>
               <p> Developing a software solution using .NET framework, SSMS for data storage, and Azure DevOps for CI/CD, this experience 
                 has provided me with a solid foundation to further develop my skills in software development.
