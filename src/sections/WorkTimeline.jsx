@@ -125,7 +125,7 @@ const WorkTimeline = () => {
               </p>
               <br />
             </div>
-            <img src='/systematic.webp' className='rounded-3xl w-full md:w-auto md:max-w-lg' />
+            <img src='/Systematic.png' className='rounded-3xl w-full md:w-auto md:max-w-lg' />
           </div>
         </div>
       </div>
