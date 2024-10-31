@@ -16,7 +16,6 @@ import dotnet from '../assets/skills/dot-net.svg'
 import springboot from '../assets/skills/spring-boot.svg'
 import powerBI from '../assets/skills/powerBi.svg'
 import ssms from '../assets/skills/microsoft-sql-server-logo-svgrepo-com.svg'
-import rest from '../assets/skills/rest-api.svg'
 import c from '../assets/skills/C.svg'
 import android from '../assets/skills/android.svg'
 import aws from '../assets/skills/aws.svg'
@@ -76,12 +75,14 @@ const skill = [
     { name: 'GitHub Actions', img: githubActions, },
     { name: 'Google Cloud', img: googleCloud, },
     { name: 'Amazon Web services', img: aws, },
+    {name: 'Azure DevOps' , img: azure},
   ],
   [
     { name: 'Astah UML', img: astah, },
     { name: 'Scrum', img: scrum, },
     { name: 'Microsoft SQL Server',img: ssms, },
     { name: 'Azure SQL Database', img: azure, },
+    { name: 'Azure Entra', img: azure, },
     { name: 'Microsoft PowerBI', img: powerBI, },
     { name: 'Google Firebase', img: firebase, },
     { name: 'Microsoft Analysis Services', img: analysis, },
