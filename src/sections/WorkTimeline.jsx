@@ -107,6 +107,9 @@ const WorkTimeline = () => {
                 My daily tasks include closely collaborating with stakeholders to design and plan data imports, implementing code, conducting tests, 
                 providing user support for challenges related to software functionality, and deploying intranet solutions on client servers, including installation, 
                 configuration, and post-launch support.
+                <br />
+                <br />
+                By working in a structured and collaborative manner, we successfully reduced the number of unresolved tasks and prevented the escalation of common reported issues.
               </p>
               <br />
             </div>
